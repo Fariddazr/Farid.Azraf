@@ -1,5 +1,5 @@
 # 👋 AZRAF FARID
-### Data Analyst | Ingénieur Conception Radio et Data Analyst
+### Ingénieur Conception Radio et Data Analyst
 
 ---
 
