@@ -5,7 +5,7 @@
 
 ## 💡 About Me (À propos)
 
-Ingénieur d’État en Systèmes Intelligents, Communicants et Mobiles, spécialisé en **Conception Radio** et **analyse de données** appliquée à l’audit de la QoD/QoS des sites radio.  
+Ingénieur d’État en Systèmes Intelligents, Communicants et Mobiles, spécialisé en **Conception Radio** et **analyse de données** appliquée à l’audit de la QoD des sites radio.  
 J’interface la **planification et le déploiement radio (4G/5G, études de couverture Atoll, planification VDR)** avec la **Data Science appliquée** (Python, SQL, Power BI) pour transformer des données brutes en leviers concrets d’amélioration des performances réseau et des process internes.  
 
 * 📧 **Contact :** freudazraf@gmail.com  
