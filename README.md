@@ -1,11 +1,11 @@
 # 👋 AZRAF FARID
-### Data Analyst | Ingénieur Systèmes & Réseaux Télécoms
+### Data Analyst | Ingénieur Conception Radio et Data Analyst
 
 ---
 
 ## 💡 About Me (À Propos de Moi)
 
-Ingénieur d'État en Systèmes Intelligents, Communicants et Mobiles, spécialisé dans l'**optimisation de la performance réseau** et l'**exploitation des données** pour la prise de décision.
+Ingénieur d'État en Systèmes Intelligents, Communicants et Mobiles, spécialisé dans '**la Conception Radio** et **l'analyse des données** pour auditer la QOD des sites conçus dans les bases.
 
 Mon parcours me permet de fusionner une compréhension approfondie des systèmes de communication sans fil (déploiement 5G, planification VDR) avec des compétences avancées en **Data Science appliquée** (Python, SQL, Power BI) pour transformer des données brutes en stratégies exploitables.
 
@@ -30,7 +30,7 @@ Mon parcours me permet de fusionner une compréhension approfondie des systèmes
 Cette section met en lumière les **réalisations professionnelles** et l'impact obtenu chez mes précédents employeurs, sans divulguer de propriété intellectuelle.
 
 ### Pilote de conception des sites VDR @ Btechnologie (2024 - Actuel)
-* **Mission :** Amélioration des process internes de conception et validation des Dossiers de Réalisation (VDR).
+* **Mission :** Amélioration des process internes de conception .
 * **Réalisation Data/KPIs :** Contribution à l’amélioration des process via un suivi par données et KPIs pour assurer la qualité et l'efficacité des livrables techniques.
 
 ### PDA en Balisage 5G @ Btechnologie (2023 - 2024)
@@ -47,13 +47,7 @@ Cette section met en lumière les **réalisations professionnelles** et l'impact
 
 Cette section contient des projets où le code, les données (non sensibles) et l'intégralité du travail sont disponibles publiquement.
 
-### 📊 TOP UK YOUTUBERS 2024 - Tableau de Bord Power BI (Projet Personnel Clé)
-
-* **Objectif :** Résoudre un besoin métier (Marketing) en identifiant les meilleurs Youtubers britanniques pour des collaborations rentables, en se basant sur une analyse des données rigoureuse.
-* **Solution :** Conception d'un dashboard interactif sous **Power BI** pour classer et analyser le Top 100 des chaînes selon des métriques clés (abonnés, vues, ratio d'engagement).
-* **Compétences Démontrées :** Maîtrise de Power BI, Analyse de données, Transformation des données, Capacité à traduire un besoin métier en solution BI.
-* **[Lien vers le Répertoire du Projet (Code Source & Documentation)](https://github.com/Fariddazr/TOP-UK-YOUTUBERS-2024)**
-
+[En cours]
 ---
 
 ## 🎓 Formation
