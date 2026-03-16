@@ -1,64 +1,64 @@
-# 👋 AZRAF FARID
-### Ingénieur Conception Radio et Data Analyst
+# 👋 AZRAF FARID  
+### Ingénieur Conception Radio & Data Analyst
 
----
+***
 
-## 💡 About Me (À Propos de Moi)
+## 💡 About Me (À propos)
 
-Ingénieur d'État en Systèmes Intelligents, Communicants et Mobiles, spécialisé dans '**la Conception Radio** et **l'analyse des données** pour auditer la QOD des sites conçus dans les bases.
+Ingénieur d’État en Systèmes Intelligents, Communicants et Mobiles, spécialisé en **Conception Radio** et **analyse de données** appliquée à l’audit de la QoD/QoS des sites radio.  
+J’interface la **planification et le déploiement radio (4G/5G, études de couverture Atoll, planification VDR)** avec la **Data Science appliquée** (Python, SQL, Power BI) pour transformer des données brutes en leviers concrets d’amélioration des performances réseau et des process internes.  
 
-Mon parcours me permet de fusionner une compréhension approfondie des systèmes de communication sans fil (déploiement 5G, planification VDR) avec des compétences avancées en **Data Science appliquée** (Python, SQL, Power BI) pour transformer des données brutes en stratégies exploitables.
+* 📧 **Contact :** freudazraf@gmail.com  
+* 📞 **Téléphone :** 06 46 73 40 88  
 
-* 📧 **Contact :** freudazraf@gmail.com
-* 📞 **Téléphone :** 0646734088
+***
 
+## 🛠️ Compétences Techniques
 
-
-## 🛠️ Compétences Techniques (Mon Toolkit)
-
-| Catégorie | Compétences Spécifiques | Certifications |
+| Catégorie | Compétences spécifiques | Certifications |
 | :--- | :--- | :--- |
-| **Data Science & Analytics** | Python (Pandas, NumPy, Scikit-learn, Seaborn), SQL (Optimisation, Requêtes complexes), Interprétation des données | Science des données appliquée avec Python (Certificat Vérifié) |
-| **Business Intelligence (BI)** | **Power BI** (DAX, Dashboards interactifs), Traitement et visualisation des données | - |
-| **Ingénierie Télécom & RF** | Balisage 5G, Études de couverture (Atoll), Planification VDR, Déploiement Radio, QGIS (Cartographie) | - |
-| **Outils & Méthodes** | Git/GitHub, KPIs, Audit de Production, Rédaction de besoins métier, Processus d'Amélioration | - |
+| **Data Science & Analytics** | Python (Pandas, NumPy, Scikit-learn, Seaborn), SQL (optimisation, requêtes complexes), analyse et interprétation de données orientées KPI | Science des données appliquée avec Python (certificat vérifié) |
+| **Business Intelligence (BI)** | **Power BI** (DAX, dashboards interactifs), préparation, modélisation et visualisation des données métier | - |
+| **Ingénierie Télécom & RF** | Balisage 5G, études de couverture (Atoll), planification VDR, déploiement radio, QGIS (cartographie) | - |
+| **Outils & Méthodes** | Git/GitHub, définition et suivi de KPIs, audit de production, rédaction de besoins métier, démarche d’amélioration continue | - |
 
----
+***
 
-## 💼 Expérience Professionnelle (Réalisations Clés)
+## 💼 Expérience Professionnelle (Réalisations clés)
 
-Cette section met en lumière les **réalisations professionnelles** et l'impact obtenu chez mes précédents employeurs, sans divulguer de propriété intellectuelle.
+Cette section met en avant l’**impact** obtenu chez mes précédents employeurs, sans divulguer de propriété intellectuelle.
 
 ### Pilote de conception des sites VDR @ Btechnologie (2024 - Actuel)
-* **Mission :** Amélioration des process internes de conception .
-* **Réalisation Data/KPIs :** Contribution à l’amélioration des process via un suivi par données et KPIs pour assurer la qualité et l'efficacité des livrables techniques.
+* **Mission :** Structurer et améliorer les process internes de conception radio VDR.  
+* **Réalisation Data/KPI :** Mise en place et suivi d’indicateurs basés données pour fiabiliser les livrables techniques et améliorer la qualité et les délais de production.
 
 ### PDA en Balisage 5G @ Btechnologie (2023 - 2024)
-* **Mission :** Définition et mise en œuvre du processus de balisage 5G et contrôle qualité.
-* **Réalisation Data/Audit :** Suivi et audit des traitements du centre de service, impliquant l'analyse des données de production pour garantir la conformité et l'exactitude des balisages.
+* **Mission :** Définir et déployer le processus de balisage 5G ainsi que le contrôle qualité associé.  
+* **Réalisation Data/Audit :** Suivi et audit des traitements du centre de service, avec analyse des données de production pour garantir la conformité, la cohérence et l’exactitude des balisages.
 
-### Consultant en télécom et réseaux @ AFD TECH part of Accenture (2020 - 2023)
-* **Mission :** Support à l’opérateur pour les études de couverture et la fiabilisation des outils.
-* **Réalisation Technique :** **Automatisation** de la phase de fiabilisation des données dans l’étude Atoll, permettant un gain de temps et une meilleure précision des référentiels internes.
+### Consultant télécom & réseaux @ AFD TECH part of Accenture (2020 - 2023)
+* **Mission :** Support à l’opérateur sur les études de couverture et la fiabilisation des outils radio.  
+* **Réalisation technique :** **Automatisation** de la phase de fiabilisation des données dans les études Atoll, réduisant le temps de traitement et augmentant la précision des référentiels internes.
 
----
+***
 
-## 📂 Projet Personnel & Open Source
+## 📂 Projets personnels & Open Source
 
-Cette section contient des projets où le code, les données (non sensibles) et l'intégralité du travail sont disponibles publiquement.
+Projets orientés **télécom & data** où le code, les données (non sensibles) et l’intégralité du travail sont publiés en open source.  
+[En cours de mise à jour – déploiement prochain sur GitHub]
 
-[En cours]
----
+***
 
 ## 🎓 Formation
 
-| Période | Diplôme & Établissement | Domaines d'Étude |
+| Période | Diplôme & établissement | Domaines d’étude |
 | :--- | :--- | :--- |
-| **2017 - 2020** | **Ingénieur d’État** en Systèmes Intelligents, Communicants et Mobiles (SICoM) - FST Fès | Télécoms, Systèmes Intelligents, Programmation, Réseaux Mobiles. |
-| **2015 - 2017** | **DEUST** - Tronc commun (Math - Info - Physique) - FST Fès | Bases Mathématiques, Informatiques et Physiques. |
+| **2017 - 2020** | **Ingénieur d’État** en Systèmes Intelligents, Communicants et Mobiles (SICoM) – FST Fès | Télécoms, systèmes intelligents, programmation, réseaux mobiles |
+| **2015 - 2017** | **DEUST** – Tronc commun (Math – Info – Physique) – FST Fès | Bases mathématiques, informatiques et physiques |
 
----
+***
 
 <p align="center">
     Merci de votre visite ! N'hésitez pas à explorer mes dépôts et à me contacter.
 </p>
+
